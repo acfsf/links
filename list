@@ -10,5 +10,5 @@ http://www.acfsf.com/esp/index.php?option=com_content&view=article&id=10341&Item
 http://www.acfsf.com/esp/index.php?option=com_content&view=article&id=10342&Itemid=218
 http://www.acfsf.com/esp//index.php
 https://play.google.com/store/apps/details?id=com.acfsf.app
-javascript:document.getElementsByClassName("region region-content")[0].innerHTML
+javascript:document.getElementById("block-system-main").innerHTML
 javascript:document.getElementsByClassName('blog')[0].innerHTML
