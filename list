@@ -1,5 +1,5 @@
-http://www.acfsf.com/esp/index.php?option=com_content&view=article&id=10337&Itemid=209
-http://www.rfef.es/competiciones/futbol-sala/calendario/6/0/article
+http://www.acfsf.com/es/index.php/primera-division/clasificacion-2019-20?article
+http://www.acfsf.com/es/index.php/primera-division/calendario-de-competicion-2019-20?article
 http://www.acfsf.com/esp/index.php?option=com_content&view=article&id=10343&Itemid=219
 http://www.acfsf.com/esp/index.php?option=com_content&view=article&id=10344&Itemid=220
 http://www.acfsf.com/esp/index.php?option=com_content&view=article&id=10345&Itemid=221
@@ -10,5 +10,5 @@ http://www.acfsf.com/esp/index.php?option=com_content&view=article&id=10341&Item
 http://www.acfsf.com/esp/index.php?option=com_content&view=article&id=10342&Itemid=218
 http://www.acfsf.com/esp//index.php
 https://play.google.com/store/apps/details?id=com.acfsf.app
-javascript:document.getElementById("top-bar").remove();document.getElementById("top-menu-bar").remove();document.getElementById("navbar").remove();document.getElementById("sidebar-first").remove();document.getElementById("copyrights").remove();
+javascript:document.getElementsByClassName('item-page')[0].innerHTML
 javascript:document.getElementsByClassName('blog')[0].innerHTML
